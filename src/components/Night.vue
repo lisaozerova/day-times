@@ -1,5 +1,5 @@
 <template>
-  <p>Спи крепко</p>
+  <p>Спи крепко ✨</p>
 </template>
 
 <script>

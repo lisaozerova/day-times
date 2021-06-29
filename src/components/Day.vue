@@ -1,12 +1,12 @@
 <template>
-  <p>Думай головой</p>
+  <p>Думай головой 🤓</p>
 
   <p>Пиши код:</p>
   <textarea></textarea>
 
   <p>Кликай мышкой:</p>
   <p>{{ clickCounter }}</p>
-  <button v-on:click="clickCounter++">Клик</button>
+  <button v-on:click="clickCounter++">Клик-клик</button>
 </template>
 
 <script>
